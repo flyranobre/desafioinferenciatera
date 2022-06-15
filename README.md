@@ -4,4 +4,4 @@
 #Criação de EDA
 #Análises sobre Ouro, Bitcoin  para verificar se o Bitcoin pode ser considerado uma reserva de valor
 #Bitcoin serve como moeda de reserva de valor?
-#Visualização de gráficos das análises  feitas  com Matplotlib, Seaborn
+#Visualização  de  gráficosa com Matplotlib, Seaborn 
